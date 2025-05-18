@@ -6,9 +6,16 @@ venv/
 .env
 dist/
 build/
-reports/
+
 # IDEs
 .idea/
 .vscode/
+
+# Project specific
+reports/
+scripts/*.bat
+scripts/*.ps1
+logs/
+*.log
 
 format.ps1
